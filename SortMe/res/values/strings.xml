@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Sort Me!</string>
+    <string name="short_filler_text">Lorem Ipsum</string>
+    <string name="short_filler_number">1,234</string>
+    <string name="filler_position_digit">1</string>
+    <string name="filler_position_suffix">st</string>
+    <string name="sign_in_prompt">You have to sign in to Google+ to play Sort Me.</string>
+    <string name="action_settings">Settings</string>
+    <string name="filler_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sit amet orci sit amet erat dapibus vehicula nec id sapien. Suspendisse et arcu sem. Aenean et tellus eu erat consequat vehicula. Nulla id eleifend arcu, sed porta nisi. Fusce auctor nisi urna, quis aliquam est molestie nec. In non luctus diam. Nulla id mi at est venenatis faucibus ut ac tortor. Phasellus posuere, libero non malesuada gravida, quam augue tincidunt eros, vel semper erat elit sed nunc. Phasellus rhoncus placerat convallis. Curabitur interdum lobortis quam quis rhoncus. Phasellus aliquam diam tincidunt, euismod nisi sed, rutrum velit.
+
+Ut imperdiet varius felis sit amet porta. Mauris faucibus libero non erat tempor accumsan. Suspendisse pulvinar orci vel diam tempor vulputate. Maecenas vitae massa accumsan, adipiscing lorem nec, placerat risus. Mauris quis gravida risus, at pretium est. Vivamus mattis nibh sed est sollicitudin vestibulum. Curabitur quis purus neque. Duis eget dui sit amet orci condimentum faucibus a a libero. Sed vel pellentesque dui.
+
+Phasellus justo sapien, gravida eget sagittis id, condimentum quis nibh. Vivamus nisl sapien, facilisis a accumsan eu, convallis cursus justo. Phasellus eget eros pharetra, venenatis mi id, ultrices purus. Cras bibendum aliquam turpis vitae scelerisque. Aliquam posuere lorem sit amet urna convallis commodo. Integer a tempus odio. Sed ultrices lorem eu malesuada pulvinar. Aliquam orci felis, lobortis nec urna elementum, lobortis semper nulla. Morbi facilisis dignissim urna quis tempus. Vestibulum in consectetur erat. Suspendisse potenti. Quisque nec dolor in diam consectetur semper sit amet vel mi. Ut varius augue sed dolor sollicitudin, vitae condimentum odio iaculis. Cras bibendum nisl ac leo congue, vel semper lorem mattis. Fusce in est tempor, varius erat sit amet, malesuada orci.
+
+Integer in massa vitae sapien aliquet malesuada. Mauris quis scelerisque dolor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lobortis consectetur lobortis. Maecenas at nulla ac nibh semper sodales. Aenean et nisl nec augue laoreet vehicula. Vivamus sollicitudin nunc eros, id faucibus risus consectetur ut. Ut massa libero, laoreet ut libero non, vestibulum iaculis est. Fusce adipiscing egestas gravida. Fusce porta rutrum pellentesque.
+
+Nulla a scelerisque felis, id lacinia ipsum. Cras nec dolor sem. Etiam ut adipiscing lectus. Maecenas blandit pretium est, nec fermentum sapien suscipit eu. Curabitur at luctus tortor. Quisque molestie, lectus nec consequat commodo, elit arcu aliquam turpis, vel fermentum magna est quis sapien. Nam viverra tellus nisi, at rhoncus est sodales nec. Fusce sed auctor dui, eu gravida tortor. Sed commodo viverra metus, rutrum sodales erat sollicitudin sed. Nunc nulla enim, ultrices sit amet nisl ac, placerat cursus nisl. Quisque pharetra, sem id pellentesque porta, ante turpis bibendum velit, non iaculis neque elit id diam.
+
+Donec imperdiet eros nulla, egestas sagittis ante convallis et. Aenean eget augue ante. Phasellus ipsum felis, mollis nec leo et, luctus vehicula elit. Vestibulum imperdiet dapibus eros ac dapibus. Cras tempus, eros et iaculis feugiat, tellus felis pharetra magna, id condimentum felis lacus ut lorem. Ut imperdiet tortor tincidunt, posuere dui quis, ornare erat. Nulla turpis elit, rutrum a commodo vel, vestibulum in eros. Etiam eget sapien sed ante aliquet viverra. Cras magna diam, iaculis nec leo sit amet, eleifend pharetra tellus. Sed vitae lacus lacus. Proin pretium, nisi ac cursus gravida, magna lacus condimentum dui, eu auctor tellus libero eu lectus.
+
+Pellentesque porttitor elementum risus non aliquam. Mauris varius lorem ac sollicitudin lacinia. Duis pharetra ut quam vitae aliquam. Curabitur aliquet lorem sit amet eleifend porta. Vivamus placerat, lorem vel posuere semper, turpis erat tristique purus, et pellentesque ligula leo ut massa. Curabitur non quam sed est lobortis ultrices. Maecenas eu nisi ac sapien condimentum bibendum sit amet quis elit.
+
+Nunc mollis tristique nunc, faucibus hendrerit felis egestas eu. Praesent ut tempus arcu. Etiam eu pretium velit. Nullam velit enim, porta non justo non, pharetra cursus erat. Pellentesque faucibus pulvinar dui sed tincidunt. Aliquam imperdiet varius ornare. Quisque venenatis adipiscing imperdiet. Sed molestie sed leo in mattis. Maecenas id quam quis dolor commodo aliquam in sit amet eros. Pellentesque volutpat suscipit ligula vel vulputate. Phasellus et erat urna.
+
+Etiam non odio pellentesque arcu semper lobortis. Integer id posuere nisl. Integer sed est quis odio vulputate imperdiet sed a augue. Aliquam erat volutpat. Sed at tincidunt sem, non ultrices mauris. Morbi auctor justo ut gravida cursus. Nullam pulvinar mauris lacus, sed sollicitudin dolor porta sit amet. Etiam dignissim purus vel ligula venenatis, id vulputate metus tincidunt. In et magna feugiat, rutrum tellus eget, blandit est. Ut feugiat porta ante, vitae pharetra nisl ultricies id. Curabitur dapibus metus in nisi ultrices, auctor feugiat massa imperdiet. In elementum lacinia faucibus. Proin eget turpis sit amet massa auctor accumsan. Phasellus quis viverra dolor, nec varius sem. Ut pulvinar viverra tempus. Proin dictum urna eu velit euismod eleifend eu sit amet enim.
+
+Quisque ultrices turpis et arcu vestibulum, ac sodales quam vulputate. Quisque nec mattis ante. Pellentesque ac lectus nec turpis ultricies pulvinar sed vel elit. Aliquam nisi velit, laoreet ullamcorper varius vel, egestas quis odio. Nunc pulvinar, erat non blandit sodales, sem dolor scelerisque felis, nec rhoncus augue erat quis magna. Phasellus facilisis justo eu diam condimentum consequat. Etiam eu eros laoreet, sagittis magna id, iaculis urna. Nullam erat massa, elementum lacinia nibh sit amet, fermentum pellentesque turpis. In sodales velit vel orci vulputate, in suscipit erat fermentum. Cras quis tempor risus. Nullam suscipit in eros et varius. Praesent sollicitudin in diam id iaculis. Fusce imperdiet imperdiet aliquam. Mauris sit amet elementum leo. Sed faucibus quis felis in tristique. Aliquam non elit lacus.
+	</string>
+
+</resources>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/score_board"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerInParent="true"
+	>
+
+    <TextView
+        android:id="@+id/score_board_game_title_large"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="5dp"
+        android:text="@string/short_filler_text"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/score_board_game_title_small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/score_board_game_title_large"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="5dp"
+        android:text="@string/short_filler_text"
+        android:textSize="18sp" />
+    <!-- 1st -->
+
+    <TextView
+        android:id="@+id/score_board_player_name_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/score_board_game_title_small"
+        android:text="@string/short_filler_text"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/score_board_score_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/score_board_player_name_1"
+        android:layout_marginTop="-2dp"
+        android:text="@string/short_filler_number"
+        android:textSize="21sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/score_board_position_suffix_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/score_board_position_1"
+        android:text="@string/filler_position_suffix"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/score_board_position_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/score_board_score_1"
+        android:layout_marginRight="1dp"
+        android:layout_toLeftOf="@+id/score_board_position_suffix_1"
+        android:text="@string/filler_position_digit"
+        android:textSize="36sp" />
+
+    <!-- 2nd -->
+
+    <TextView
+        android:id="@+id/score_board_player_name_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/score_board_score_1"
+        android:layout_marginTop="4dp"
+        android:text="@string/short_filler_text"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/score_board_score_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/score_board_player_name_2"
+        android:layout_marginTop="-2dp"
+        android:text="@string/short_filler_number"
+        android:textSize="21sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/score_board_position_suffix_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/score_board_position_2"
+        android:text="@string/filler_position_suffix"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/score_board_position_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/score_board_score_2"
+        android:layout_marginRight="1dp"
+        android:layout_toLeftOf="@+id/score_board_position_suffix_2"
+        android:text="@string/filler_position_digit"
+        android:textSize="36sp" />
+
+    <!-- 3rd -->
+
+    <TextView
+        android:id="@+id/score_board_player_name_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/score_board_score_2"
+        android:layout_marginTop="4dp"
+        android:text="@string/short_filler_text"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/score_board_score_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/score_board_player_name_3"
+        android:layout_marginTop="-2dp"
+        android:text="@string/short_filler_number"
+        android:textSize="21sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/score_board_position_suffix_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/score_board_position_3"
+        android:text="@string/filler_position_suffix"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/score_board_position_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/score_board_score_3"
+        android:layout_marginRight="1dp"
+        android:layout_toLeftOf="@+id/score_board_position_suffix_3"
+        android:text="@string/filler_position_digit"
+        android:textSize="36sp" />
+
+    <!-- 4th -->
+
+	<TextView
+	    android:id="@+id/score_board_player_name_4"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentLeft="true"
+	    android:layout_below="@+id/score_board_score_3"
+	    android:layout_marginTop="4dp"
+	    android:text="@string/short_filler_text"
+	    android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/score_board_score_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/score_board_player_name_4"
+        android:layout_marginTop="-2dp"
+        android:text="@string/short_filler_number"
+        android:textSize="21sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/score_board_position_suffix_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/score_board_position_4"
+        android:text="@string/filler_position_suffix"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/score_board_position_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/score_board_score_4"
+        android:layout_marginRight="1dp"
+        android:layout_toLeftOf="@+id/score_board_position_suffix_4"
+        android:text="@string/filler_position_digit"
+        android:textSize="36sp" />
+
+    <!-- Back to -->
+
+    <Button
+        android:id="@+id/score_board_back_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/score_board_score_4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="7dp"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:text="@string/short_filler_text"/>
+
+
+
+</RelativeLayout>

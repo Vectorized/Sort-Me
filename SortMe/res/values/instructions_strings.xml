@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_activity_instructions">Instructions</string>
+    <string name="instructions_intro_1">
+        Sort Me! is a game where you sort as many tiles as you can under two minutes.
+    </string>
+    <string name="instructions_intro_2">
+        Each row of tiles must be sorted in Ascending order from left to right.
+        Only one tile can be swapped with another at a time.
+        Drag a tile over another tile to swap their positions.
+    </string>
+    <string name="instructions_powerup_text_1">
+		There are also powerups which can be used to boost your gameplay:
+    </string>
+    <string name="instructions_randomize_text">
+        Shuffles the tiles of an opponent randomly.
+    </string>
+	<string name="instructions_bubbletize_text">
+	    Make an opponent only able to swap adjacent tiles for some time.
+	</string>
+	<string name="instructions_upize_text">
+		Adds two cards to an opponent\'s next deck. Extra cards earn no points.
+	</string>
+	<string name="instructions_shield_text">
+		Blocks all attacks form all opponents for some time.
+	</string>
+	<string name="instructions_powerup_text_2">
+	    The opponent that is targeted by the indicator will be attacked upon activating an offensive powerup.
+	</string>
+	<string name="instructions_powerup_text_3">
+	    Powerups cost MP, which can be earned by swapping tiles. \nUse them wisely!
+	</string>
+
+</resources>
